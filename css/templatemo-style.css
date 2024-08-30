@@ -288,6 +288,14 @@ nav {
   font-weight: 200;
 }
 
+.child {
+  display: inline-block;
+}
+
+.parent {
+  text-align: center;
+}
+
 
 #video-container .video-content .inner p {
   color: #fff;
